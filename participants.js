@@ -23,5 +23,9 @@ const participants = [
     name: 'Ali Ataei',
     username: 'https://github.com/aljatael',
     codepen: 'https://codepen.io/aljatael/pen/dPyPgQY',
+  },{
+    name: 'Sepehr Naghavian',
+    username: 'https://github.com/Sepehr1naqavian',
+    codepen: 'https://codepen.io/Sepehr1naqavian/pen/pvoJweq',
   },
 ];
